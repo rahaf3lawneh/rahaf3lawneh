@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahaf Alawneh.</h1>
-<h3 align="center">Computer Engineering Student.</h3>
+<h3 align="center">Computer Systems Engineering</h3>
 
 - 🌱 I’m currently learning **Front end and back end.**
 
